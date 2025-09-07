@@ -1,4 +1,4 @@
-# Video Distruct #
+# Video Destruct #
 **This project deletes your video when a certain word is typed.**
 
 
