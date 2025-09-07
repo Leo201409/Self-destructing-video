@@ -1,0 +1,6 @@
+*//Extra checkup*//
+as chroot.setup add auth.google_Event_handlers
+ chroot.public = const.auth:
+    {
+"status" : "shameless"
+     }
